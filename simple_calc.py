@@ -1,5 +1,6 @@
 # I don't understanddddddd
 # I think I do now
+# So, what of adding more than two digits?  Isn't there a shorter way of doing that
 
 # Simple Python Calculator
 
