@@ -27,17 +27,17 @@
 # num2 = input(int("Enter the second number":))
 #   if operator == "+":
 #      sum = num1 + num2
-#      print("The sum of the two numbers is:", sum),
+#      print("The sum of the two numbers is:", sum)
 #   elif operator =="-":
 #      diff = num1 - num2
-#      print("The difference of the two numbers is:", diff),
+#      print("The difference of the two numbers is:", diff)
 #   elif operator == "*":
 #        prod = num1 * num2
 #        print("The product of the numbers is:", prod) 
 #   elif operator == "/":
          # if num2 ! = 0:
 #             quotient = num1/num2
-#             print("The quotient is:", quotient),
+#             print("The quotient is:", quotient)
          # else print("Error: division by zero is not allowed")
 
 #   else print("Enter the right operator")
