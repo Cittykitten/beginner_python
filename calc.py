@@ -31,12 +31,14 @@
 #   elif operator =="-":
 #      diff = num1 - num2
 #      print("The difference of the two numbers is:", diff),
-#   elif operator == "/":
-#         quotient = num1/num2
-#         print("The quotient is:", quotient),
 #   elif operator == "*":
 #        prod = num1 * num2
 #        print("The product of the numbers is:", prod) 
+#   elif operator == "/":
+         # if num2 ! 2 = 0
+#             quotient = num1/num2
+#             print("The quotient is:", quotient),
+
 #   else Print("Enter the right operator")
 
 
