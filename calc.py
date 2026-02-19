@@ -35,7 +35,7 @@
 #        prod = num1 * num2
 #        print("The product of the numbers is:", prod) 
 #   elif operator == "/":
-         # if num2 ! = 0
+         # if num2 ! = 0:
 #             quotient = num1/num2
 #             print("The quotient is:", quotient),
 
