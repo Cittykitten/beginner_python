@@ -22,9 +22,9 @@
 
 
 # Simple Python Calculator
-# num1 = input(int("Enter the first number: " ))
+# num1 = int(input("Enter the first number: " ))
 # operator = input("Enter the operator(+,-,/,*) ")
-# num2 = input(int("Enter the second number: "))
+# num2 = int(input("Enter the second number: "))
 #   if operator == "+":
 #      sum = num1 + num2
 #      print("The sum of the two numbers is:", sum)
