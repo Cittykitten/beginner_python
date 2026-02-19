@@ -25,7 +25,7 @@
 # num1 = int(input("Enter the first number: " ))
 # operator = input("Enter the operator(+,-,/,*) ")
 # num2 = int(input("Enter the second number: "))
-#   if operator == "+":
+#if operator == "+":
 #      sum = num1 + num2
 #      print("The sum of the two numbers is:", sum)
 #   elif operator =="-":
