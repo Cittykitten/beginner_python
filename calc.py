@@ -38,9 +38,11 @@
          # if num2 != 0:
 #             quotient = num1/num2
 #             print("The quotient is:", quotient)
-         # else print("Error: division by zero is not allowed")
+         # else:
+              # print("Error: division by zero is not allowed")
 
-#   else print("Enter the right operator")
+#   else:
+        # print("Enter the right operator")
 
 
 
