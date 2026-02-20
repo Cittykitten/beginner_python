@@ -13,7 +13,7 @@
 #        print("The quotient is:", quotient),
 #   elif operator = "*";
 #      prod = num1 * num2; Print("The product of the numbers is:", prod) 
-#   else Print("Enter the right operator")
+#   else Print("Enter the right operator")❌
 
 
 
@@ -41,11 +41,14 @@
 #          else:
 #               print("Error: division by zero is not allowed")
 # else:
-#         print("Enter the right operator")
+#         print("Enter the right operator") ✅
+
 
 
 # I don't even know what is wrong with this code anymore 😭😭
 # Improper indentation so I'll do it again
+# It finally worked after a thosand tries
+# The problem was improper indentation and an uncommented comment 👊😁
 
 
 
