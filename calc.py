@@ -25,27 +25,27 @@
 # num1 = int(input("Enter the first number: " ))
 # operator = input("Enter the operator(+,-,/,*) ")
 # num2 = int(input("Enter the second number: "))
-#if operator == "+":
+# if operator == "+":
 #      sum = num1 + num2
 #      print("The sum of the two numbers is:", sum)
-#   elif operator =="-":
+# elif operator =="-":
 #      diff = num1 - num2
 #      print("The difference of the two numbers is:", diff)
-#   elif operator == "*":
+# elif operator == "*":
 #        prod = num1 * num2
 #        print("The product of the numbers is:", prod) 
-#   elif operator == "/":
-         # if num2 != 0:
+# elif operator == "/":
+#          if num2 != 0:
 #             quotient = num1/num2
 #             print("The quotient is:", quotient)
-         # else:
-              # print("Error: division by zero is not allowed")
-
-#   else:
-        # print("Enter the right operator")
+#          else:
+#               print("Error: division by zero is not allowed")
+# else:
+#         print("Enter the right operator")
 
 
 # I don't even know what is wrong with this code anymore 😭😭
+# Improper indentation so I'll do it again
 
 
 
