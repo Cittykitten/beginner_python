@@ -4,6 +4,30 @@
 
 
 
+
+
+
+
+
+# The [pil] installs Pillow, which is required to generate image files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import qrcode
 
 # Simple QR code
