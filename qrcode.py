@@ -8,7 +8,9 @@
 
 
 
+# import qrcode
 
+# This imports the qrcode library, which is a Python package used to generate QR codes.
 # The [pil] installs Pillow, which is required to generate image files.
 
 
