@@ -9,10 +9,18 @@
 
 
 # import qrcode
-
 # This imports the qrcode library, which is a Python package used to generate QR codes.
+
 # The [pil] installs Pillow, which is required to generate image files.
 
+# def generate_simple_qr(data, filename="simple_qr.png"):
+# This defines a function named generate_simple_qr.
+# Parameters:
+# data → The information that will be encoded inside the QR code.
+# filename="simple_qr.png" → The name of the file where the QR image will be saved.
+# If no filename is provided, it defaults to "simple_qr.png".
+# This makes the function reusable.
+# God abeg 😭🤧
 
 
 
