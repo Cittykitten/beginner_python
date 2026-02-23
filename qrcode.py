@@ -37,6 +37,7 @@
 
 # a QRCode instance:
 # explanation for each parameter:
+
 # version=1
 # Controls the size of the QR code.
 # Version 1 is the smallest QR code.
