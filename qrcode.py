@@ -57,8 +57,12 @@
 # Minimum recommended border is 4.
 
 
-
-
+# Adding Data
+# ---------qr.add_data(data)--------
+# This adds whatever string is passed into the function in the QR code.
+# Examples: Website URL, Text, Phone number, Contact info, Contact info 
+# WiFi credentials
+# Any string
 
 
 
