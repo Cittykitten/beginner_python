@@ -24,6 +24,55 @@
 
 
 
+# Creating a QR Code Object
+        # qr = qrcode.QRCode(
+        #     version=1,
+        #     box_size=10,
+        #     border=5
+        # )
+
+# a QRCode instance:
+# explanation for each parameter:
+# version=1
+
+Controls the size of the QR code.
+
+Version 1 is the smallest QR code.
+
+QR versions range from 1 to 40.
+
+Higher version → more data capacity → larger QR pattern.
+
+If you set fit=True later (which you do), Python can automatically adjust the version if needed.
+
+🔹 box_size=10
+
+Controls how big each square (pixel block) is.
+
+Larger number = bigger image.
+
+Does NOT affect data capacity.
+
+Only affects visual size.
+
+🔹 border=5
+
+Controls the thickness of the white border.
+
+QR codes require a white margin called the “quiet zone.”
+
+Minimum recommended border is 4.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
