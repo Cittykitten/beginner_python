@@ -3,11 +3,6 @@
 
 
 
-
-
-
-
-
 # import qrcode
 # This imports the qrcode library, which is a Python package used to generate QR codes.
 
@@ -103,11 +98,11 @@
 
 
 
-Printing Confirmation
-print(f"QR Code saved as {filename}")
-This prints a confirmation message using an f-string.
-Example output:
-QR Code saved as website_qr.png
+# Printing Confirmation
+# print(f"QR Code saved as {filename}")
+# This prints a confirmation message using an f-string.
+# Example output:
+# QR Code saved as website_qr.png
 
 
 
