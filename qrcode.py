@@ -11,6 +11,8 @@
 # import qrcode
 # This imports the qrcode library, which is a Python package used to generate QR codes.
 
+
+
 # The [pil] installs Pillow, which is required to generate image files.
 
 # def generate_simple_qr(data, filename="simple_qr.png"):
@@ -23,9 +25,11 @@
 # God abeg 😭🤧
 
 
+
 # text = "Hello"
 # print(text)
 # print("-" * len(text))
+
 
 
 # Creating a QR Code Object
@@ -45,16 +49,19 @@
 # Higher version → more data capacity → larger QR pattern.
 # If you set fit=True later (which i have done), Python can automatically adjust the version if needed.
 
+
 # box_size=10
 # Controls how big each square (pixel block) is.
 # Larger number = bigger image.
 # Does NOT affect data capacity.
 # Only affects visual size.
 
+
 # border=5
 # Controls the thickness of the white border.
 # QR codes require a white margin called the “quiet zone.”
 # Minimum recommended border is 4.
+
 
 
 # Adding Data
@@ -63,12 +70,14 @@
 # Examples: Website URL, Text, Phone number, Contact info, Contact info, WiFi credentials, Any string
 
 
+
 # Generating the structure
 # qr.make(fit=True)
 # This tells the library to:
 #         Process the data
 #         Structure it into QR code format
 #         Adjust the version automatically if needed
+
 
 
 # Creating the Image
@@ -82,6 +91,7 @@
 #                 back_color="yellow"
 
 
+
 # Saving the Image
 # img.png or img.jpg(filename)
 # This saves the QR image to a file.
@@ -90,6 +100,11 @@
 #         generate_simple_qr("hello", "myqr.png")
 # It saves as:
 # myqr.png
+
+
+
+Printing Confirmation
+
 
 
 
