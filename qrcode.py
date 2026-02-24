@@ -105,6 +105,7 @@
 
 Printing Confirmation
 
+print(f"QR Code saved as {filename}")
 
 
 
