@@ -63,7 +63,11 @@
 # Examples: Website URL, Text, Phone number, Contact info, Contact info, WiFi credentials, Any string
 
 
-
+# qr.make(fit=True)
+# This tells the library to:
+#         Process the data
+#         Structure it into QR code format
+#         Adjust the version automatically if needed
 
 
 
