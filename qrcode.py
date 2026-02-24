@@ -74,17 +74,12 @@
 Creating the Image
         img = qr.make_image(fill_color="black", back_color="white")
 This converts the QR data into an image.
-
-Parameters:
-
-fill_color="black" → color of the QR pattern
-
-back_color="white" → background color
-
-You can change these to:
-
-fill_color="blue"
-back_color="yellow"
+        Parameters:
+                fill_color="black" → color of the QR pattern
+                back_color="white" → background color
+        We could even change these to:
+                fill_color="blue"
+                back_color="yellow"
 
 
 
