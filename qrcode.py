@@ -63,6 +63,7 @@
 # Examples: Website URL, Text, Phone number, Contact info, Contact info, WiFi credentials, Any string
 
 
+# Generating the structure
 # qr.make(fit=True)
 # This tells the library to:
 #         Process the data
