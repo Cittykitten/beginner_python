@@ -83,17 +83,13 @@
 
 
 Saving the Image
-img.save(filename)
-
+img.png or img.jpg(filename)
 This saves the QR image to a file.
 
-If you passed:
-
-generate_simple_qr("hello", "myqr.png")
-
-It saves as:
-
-myqr.png
+# If I passed:
+#         generate_simple_qr("hello", "myqr.png")
+# It saves as:
+# myqr.png
 
 
 
