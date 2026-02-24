@@ -112,6 +112,8 @@ This prints a confirmation message using an f-string.
 
 
 
+Example output:
+
 
 
 
