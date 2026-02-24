@@ -114,8 +114,7 @@ This prints a confirmation message using an f-string.
 
 Example output:
 
-
-
+QR Code saved as website_qr.png
 
 
 
