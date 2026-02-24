@@ -83,7 +83,7 @@
 
 
 Saving the Image
-img.png or img.jpg(filename)
+# img.png or img.jpg(filename)
 # This saves the QR image to a file.
 
 # If I passed:
