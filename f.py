@@ -14,6 +14,6 @@ print(f"Next year I will be {age + 1}.")
 # My name is Tiana and I am 18 years old.
 # Next year I will be 19.
 
-The output without the f would've been 
+# The output without the f would've been 
 # My name is {name} and I am {age} years old.
 # Next year I will be {age + 1}.
