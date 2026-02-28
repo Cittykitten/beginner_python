@@ -112,7 +112,6 @@
 
 
 
-
 import qrcode
 
 # Simple QR code
