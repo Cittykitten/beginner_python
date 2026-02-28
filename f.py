@@ -1,3 +1,8 @@
+-------f----------
+
+# The f tells Python to “Evaluate any expressions inside {} and insert their values into the string
+# Anything inside {} must be a valid Python expression
+
 name = "Tiana"
 age = 18
 
