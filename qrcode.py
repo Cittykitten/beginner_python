@@ -46,6 +46,7 @@
 
 
 # box_size=10
+# box_size=10 → how big each tiny square should be
 # Controls how big each square (pixel block) is.
 # Larger number = bigger image.
 # Does NOT affect data capacity.
