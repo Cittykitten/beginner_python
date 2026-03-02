@@ -136,4 +136,4 @@ def generate_simple_qr(data, filename="simple_qr.png"):
 
 # Example usage
 generate_simple_qr("https://www.example.com", "website_qr.png")
-generate_simple_qr("Contact: John Doe\nPhone: 123-456-7890", "contact_qr.png")
+generate_simple_qr("Contact: Ama\nPhone: 123-456-7890", "contact_qr.png")
