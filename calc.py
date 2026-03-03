@@ -17,8 +17,8 @@
 
 
 
-We need "==" for it to work.
-    "=" means we are assigning a variable so to show that it is not a variable, use"=="
+# We need "==" for it to work.
+#     "=" means we are assigning a variable so to show that it is not a variable, use"=="
 
 
 
