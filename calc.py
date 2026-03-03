@@ -47,7 +47,7 @@
 
 # I don't even know what is wrong with this code anymore 😭😭
 # Improper indentation so I'll do it again
-# It finally worked after a thosand tries
+# It finally worked after a thousand tries
 # The problem was improper indentation and an uncommented comment 👊😁
 
 
