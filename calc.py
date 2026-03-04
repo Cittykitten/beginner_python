@@ -22,6 +22,7 @@
 
 
 
+
 # Simple Python Calculator
 # num1 = int(input("Enter the first number: " ))
 # operator = input("Enter the operator(+,-,/,*) ")
