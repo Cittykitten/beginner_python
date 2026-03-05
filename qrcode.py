@@ -8,6 +8,7 @@
 
 
 
+
 # The [pil] installs Pillow, which is required to generate image files.
 
 # def generate_simple_qr(data, filename="simple_qr.png"):
