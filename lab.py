@@ -11,3 +11,10 @@ def lin(t=3,i=8,h=6):
   return t**2, i*4, 2**h
 lin()
 # output 9, 32, 64
+
+
+# Assignment
+# Define functions to calculate 
+# i. Square
+# ii. Rectangle
+# iii. Multiplication of three numbers
