@@ -1,3 +1,7 @@
+name = "Adjo"
+print (name)
+# output Adjo
+
 def num(t,i):
   return t * i
 num(6,9)
