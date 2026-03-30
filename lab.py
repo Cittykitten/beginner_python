@@ -30,3 +30,7 @@ count = 0
 while count < 5
 print (count)
 count +=1
+
+def greet (name)
+print ("Hello" name)
+greet (Ama)
