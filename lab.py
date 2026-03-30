@@ -18,3 +18,15 @@ lin()
 # i. Square
 # ii. Rectangle
 # iii. Multiplication of three numbers
+
+
+for i in range(5);
+print (i)
+
+
+
+count = 0
+
+while count < 5
+print (count)
+count +=1
